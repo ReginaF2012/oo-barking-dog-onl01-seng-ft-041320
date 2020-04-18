@@ -2,5 +2,6 @@ class Dog
   def bark 
     puts "woof!"
   end 
-  def 
+  def name=()
+    @this_dogs_name = 
 end 
